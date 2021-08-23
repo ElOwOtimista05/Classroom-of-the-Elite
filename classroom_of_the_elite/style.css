@@ -1,0 +1,94 @@
+* {
+    font-family: 'Balsamiq Sans', cursive;
+}
+
+img {
+    margin: 50px 10.5%;
+    width: 80%;
+    border:ridge 5px;
+}
+
+body {
+    margin:0%;
+    background-image:url('https://www.dhresource.com/0x0/f2/albu/g5/M00/23/79/rBVaI1lsVRCAJhsNAAPMQjpi0Is771.jpg/pastel-pink-wooden-planks-photo-shoot-backgrounds.jpg');
+    background-attachment: fixed;
+    background-repeat:no-repeat;
+    background-size:cover;
+    
+}
+
+header {
+    text-align:center;
+    margin: 50px 400px;
+    padding: 20px;
+    background-color: rgb(230, 230, 230);
+    border-radius: 30px;
+    border: rgb(185, 185, 185) 5px solid;
+    
+}
+
+
+.cap_1_container {
+    margin: 100px 100px;
+    padding: 25px 25px 0px;
+    background-color: rgb(230, 230, 230);
+    border-radius: 5px;
+
+}
+
+.cap-1 {
+    text-align: center;
+    font-size: 4em;
+    padding: 10px;
+    margin: 40px auto 0px;
+    color: rgb(0, 7, 105);
+
+}
+
+.text-cap-1 {
+    padding: 25px;
+    margin: 25px 25px;
+}
+
+.Ayanokouji_thoughts {
+    margin: 60px auto;
+    text-shadow: rgb(150, 0, 0) 0px 0px 20px;
+}
+
+.Ayanokouji_scripts {
+    text-shadow: rgb(150, 0, 0) 0px 0px 10px;
+}
+
+.Hirata_scripts {
+    text-shadow: rgb(255, 160, 36) 0px 0px 10px;
+}
+
+.Karuizawa_scripts {
+    text-shadow: rgb(255, 123, 0) 0px 0px 5px;
+}
+
+.Kouenji_scripts {
+    text-shadow: rgb(255, 251, 0) 0px 0px 10px;
+}
+
+.staff_scripts {
+    text-shadow: rgb(59, 138, 255) 0px 0px 10px;
+}
+
+footer {
+    color:rgb(245, 245, 245);
+    background-color:rgb(0, 52, 65);
+    padding: 10px;
+}
+
+.creator {
+    text-align:center;
+    font-size: 1em;
+    color:rgb(245, 245, 245);
+    background-color:rgb(0, 52, 65);
+    padding: 10px;
+    margin:0px 450px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
